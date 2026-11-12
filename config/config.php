@@ -65,7 +65,7 @@ define('REMEMBER_ME_DAYS', 30);
 define('SMTP_HOST', 'smtp.gmail.com');
 define('SMTP_PORT', 587);
 define('SMTP_ENCRYPTION', 'tls');
-define('SMTP_USERNAME', 'almaktabahislamia@gmail.com');
+define('SMTP_USERNAME', 'youractual@gmail.com');
 define('SMTP_PASSWORD', 'REPLACE_WITH_YOUR_16_CHARACTER_GMAIL_APP_PASSWORD');
 define('SMTP_FROM_NAME', SITE_NAME);
 
